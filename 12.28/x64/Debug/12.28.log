@@ -1,0 +1,4 @@
+﻿  practice.cpp
+D:\C-code\12.28\practice.cpp(159,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\C-code\12.28\practice.cpp(166): warning C4172: 返回局部变量或临时变量的地址: s2
+  12.28.vcxproj -> D:\C-code\12.28\x64\Debug\12.28.exe
